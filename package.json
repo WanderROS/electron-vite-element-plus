@@ -38,6 +38,7 @@
   ],
   "dependencies": {
     "vue": "^3.2.36",
-    "element-plus": "^2.2.8"
+    "element-plus": "^2.2.8",
+    "@element-plus/icons-vue": "latest"
   }
 }
