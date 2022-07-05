@@ -10,6 +10,7 @@
     "sourceMap": true,
     "baseUrl": "./",
     "strict": true,
+    "types": ["element-plus/global"],
     "paths": {},
     "allowSyntheticDefaultImports": true,
     "skipLibCheck": true
